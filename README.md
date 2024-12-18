@@ -4,9 +4,9 @@ Este repositório foi criado para documentar e compartilhar meus estudos relacio
 
 ## Conteúdo
 
-# Conceitos Básicos: Introdução ao JDBC, drivers e arquitetura.
+- Conceitos Básicos: Introdução ao JDBC, drivers e arquitetura.
 
-# Configuração de Ambiente: Como configurei meu ambiente para desenvolvimento com JDBC.
+- Configuração de Ambiente: Como configurei meu ambiente para desenvolvimento com JDBC.
 
 # Exemplos Práticos:
 

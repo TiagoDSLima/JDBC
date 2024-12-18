@@ -1,4 +1,4 @@
-### Estudos sobre JDBC
+# Estudos sobre JDBC
 
 Este repositório foi criado para documentar e compartilhar meus estudos relacionados ao uso do JDBC (Java Database Connectivity). Aqui, estou reunindo exemplos práticos, conceitos teóricos e desafios resolvidos, com o objetivo de aprofundar meu conhecimento sobre como conectar aplicações Java a bancos de dados.
 
@@ -8,7 +8,7 @@ Este repositório foi criado para documentar e compartilhar meus estudos relacio
 
 - Configuração de Ambiente: Como configurei meu ambiente para desenvolvimento com JDBC.
 
-# Exemplos Práticos:
+## Exemplos Práticos:
 
 - Conexão com banco de dados MySQL.
 

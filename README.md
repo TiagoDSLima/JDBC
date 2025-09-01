@@ -1,47 +1,36 @@
-# Estudos sobre JDBC
+# Studies on JDBC
 
-Este repositório foi criado para documentar e compartilhar meus estudos relacionados ao uso do JDBC (Java Database Connectivity). Aqui, estou reunindo exemplos práticos, conceitos teóricos e desafios resolvidos, com o objetivo de aprofundar meu conhecimento sobre como conectar aplicações Java a bancos de dados.
+This repository was created to document and share my studies related to the use of JDBC (Java Database Connectivity). Here, I am gathering practical examples, theoretical concepts, and solved challenges with the goal of deepening my knowledge on how to connect Java applications to databases.
 
-## Conteúdo
+## Content
 
-- Conceitos Básicos: Introdução ao JDBC, drivers e arquitetura.
+- Basic Concepts: Introduction to JDBC, drivers, and architecture.
+- Environment Setup: How I configured my environment for JDBC development.
 
-- Configuração de Ambiente: Como configurei meu ambiente para desenvolvimento com JDBC.
+## Practical Examples
 
-## Exemplos Práticos:
+- Connection with MySQL database.
+- Execution of CRUD operations (Create, Read, Update, Delete).
+- Use of Statement and PreparedStatement.
+- Error Handling: How I am dealing with common JDBC exceptions.
+- Challenges and Projects: Problems solved and mini-projects developed during my studies.
 
-- Conexão com banco de dados MySQL.
+## Objective
 
-- Execução de operações CRUD (Create, Read, Update, Delete).
+The main objective of this repository is to consolidate my knowledge of JDBC and create a personal reference for future projects involving the integration of Java applications with databases. I also hope this material can be useful for other developers starting with this technology.
 
-- Uso de Statement e PreparedStatement.
+## Prerequisites
 
-- Tratamento de Erros: Como estou lidando com exceções comuns no JDBC.
+Before starting, it is important to ensure that the environment is properly set up:
 
-- Desafios e Projetos: Problemas resolvidos e mini-projetos desenvolvidos durante meus estudos.
+- Java Development Kit (JDK) installed.
+- A relational database (such as MySQL, PostgreSQL, or another of your choice).
+- JDBC driver compatible with the database used.
+- IDE for Java development (Eclipse, IntelliJ IDEA, NetBeans, etc.).
 
-## Objetivo
+## Contact
 
-O objetivo principal deste repositório é consolidar meus conhecimentos sobre JDBC e criar uma referência pessoal para futuros projetos que envolvam integração de aplicações Java com bancos de dados. Também espero que este material possa ser útil para outros desenvolvedores iniciando nessa tecnologia.
-
-## Pré-requisitos
-
-Antes de começar, é importante garantir que o ambiente esteja configurado corretamente:
-
-- Java Development Kit (JDK) instalado.
-
-- Um banco de dados relacional (como MySQL, PostgreSQL ou outro de sua escolha).
-
-- Driver JDBC compatível com o banco de dados utilizado.
-
-- IDE para desenvolvimento Java (Eclipse, IntelliJ IDEA, NetBeans, etc.).
-
-## Contato
-
-Caso tenha dúvidas ou queira trocar ideias, você pode me encontrar em:
+If you have any questions or would like to exchange ideas, you can reach me at:
 
 - Email: tiagodslima51@gmail.com
-
 - LinkedIn: https://www.linkedin.com/in/tiago-lima-269b87230/
-
-Obrigado por visitar este repositório e espero que ele também possa ser útil nos seus estudos sobre JDBC!
